@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
+<h3 align="center">A passionate developer passionate about creating web and mobile applications that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagojarahernandez&label=Profile%20views&color=0e75b6&style=flat" alt="santiagojarahernandez" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Building a mobile app using React Native for booking synthetic soccer fields.**
+- 🔭 Currently, I'm developing a booking application for synthetic soccer fields and working on integrating sentiment and image analysis into my projects. I'm always looking for ways to optimize performance and improve user experience.
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I love learning new technologies and enhancing my skills. Currently, I'm exploring Spring Boot to develop robust and scalable backend services, and delving into advanced mobile development techniques with React Native.
 
-- 👯 I’m looking to collaborate on **projects**
+- 👯 I would love to collaborate on open-source projects related to web and mobile development, as well as initiatives that use artificial intelligence to create innovative solutions.
 
-- 🤝 I’m looking for help with **Integrating AI functionalities such as sentiment analysis and image recognition into my future projects**
+- 💬 If you have questions about frontend development with React, building RESTful APIs with Node.js, or creating real-time applications with Socket.io, feel free to ask me. I also enjoy discussing new technology trends and how to apply them in practical projects.
+
+- ⚡ Fun fact: Besides being a tech enthusiast, I'm passionate about soccer and I'm working on an app to facilitate the booking of soccer fields in my community. I love combining my hobbies with my technical skills!
+
+- 🤝 I'm always open to new opportunities and collaborations. Let's connect and create something amazing together!
 
 - 📫 How to reach me **santiagojara1306@gmail.com**
 
