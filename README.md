@@ -13,8 +13,6 @@
 
 - 💬 If you have questions about frontend development with React, building RESTful APIs with Node.js, or creating real-time applications with Socket.io, feel free to ask me. I also enjoy discussing new technology trends and how to apply them in practical projects.
 
-- ⚡ Fun fact: Besides being a tech enthusiast, I'm passionate about soccer and I'm working on an app to facilitate the booking of soccer fields in my community. I love combining my hobbies with my technical skills!
-
 - 🤝 I'm always open to new opportunities and collaborations. Let's connect and create something amazing together!
 
 - 📫 How to reach me **santiagojara1306@gmail.com**
