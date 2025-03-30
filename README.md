@@ -2,7 +2,19 @@
 
 <div align="center">
   
-  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Integration+Specialist;Mobile+App+Developer;Clean+Code+Advocate;Tech+Problem+Solver)](https://git.io/typing-svg)
+  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Integration+Specialist;Mobile+App+Developer;Clean+Code+Advocate)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🌟 Featured Portfolio
+
+<div align="center">
+  
+[![Portfolio Preview](https://img.shields.io/badge/🚀_View_My_Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+  
+*"Explore my projects and professional journey"*  
 
 </div>
 
@@ -17,7 +29,6 @@
 ✨ **Passionate developer** with experience building innovative web and mobile solutions  
 🚀 **Specializing** in AI integrations and full-stack development  
 💡 **I create** applications that solve real problems with cutting-edge technology  
-☕ **Fueled by** Colombian coffee and interesting technical challenges  
 
 🔭 **Currently working on:**  
 
@@ -43,14 +54,10 @@
 
 ## 🚀 My Projects
 
-<div align="center">
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **SoccerField Pro** | AI-powered booking platform | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
 | **Sentiment Analyzer** | Real-time emotion detection | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
-
-</div>
 
 ---
 
@@ -70,8 +77,8 @@
 
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 </div>
 
@@ -82,7 +89,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santiagojara1306@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-jara-hernandez-551518265/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-jara-hernandez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
