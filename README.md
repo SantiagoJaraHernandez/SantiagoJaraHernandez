@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![Portfolio Preview](https://img.shields.io/badge/🚀_View_My_Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio Preview](https://img.shields.io/badge/🚀_View_My_Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-nu-steel-88.vercel.app/)
   
 *"Explore my projects and professional journey"*  
 
@@ -94,7 +94,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santiagojara1306@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-jara-hernandez-551518265/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white)](https://my-portfolio-nu-steel-88.vercel.app/)
 
 </div>
 
