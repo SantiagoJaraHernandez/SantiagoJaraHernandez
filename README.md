@@ -31,10 +31,26 @@
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Mobile** | **Cloud/DevOps** |
-|--------------|-------------|------------|------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Mobile</th>
+    <th>Cloud/DevOps</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"></td>
+  </tr>
+</table>
 
 </div>
 
@@ -42,10 +58,34 @@
 
 ## 🚀 My Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **SoccerField Pro** | AI-powered booking platform | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Sentiment Analyzer** | Real-time emotion detection | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td><strong>SoccerField Pro</strong></td>
+    <td>AI-powered booking platform</td>
+    <td>
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white">
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Sentiment Analyzer</strong></td>
+    <td>Real-time emotion detection</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
