@@ -52,12 +52,16 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 My Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **SoccerField Pro** | AI-powered booking platform | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
 | **Sentiment Analyzer** | Real-time emotion detection | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+
+</div>
 
 ---
 
@@ -89,7 +93,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santiagojara1306@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-jara-hernandez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-jara-hernandez-551518265/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 </div>
