@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Integration+Specialist;Mobile+App+Developer;Clean+Code+Advocate)](https://git.io/typing-svg)
+  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Integration+Specialist;Mobile+App+Developer;Clean+Code+Advocate;Tech+Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,14 @@
 
 ## 📌 About Me
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" align="right" alt="Coding GIF">
+</p>
+
 ✨ **Passionate developer** with experience building innovative web and mobile solutions  
 🚀 **Specializing** in AI integrations and full-stack development  
 💡 **I create** applications that solve real problems with cutting-edge technology  
+☕ **Fueled by** Colombian coffee and interesting technical challenges  
 
 🔭 **Currently working on:**  
 
@@ -26,10 +31,10 @@
 
 <div align="center">
 
-| **Frontend**       | **Backend**        | **Mobile**         | **Cloud/DevOps**   |
-|--------------------|--------------------|--------------------|--------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> |
+| **Frontend** | **Backend** | **Mobile** | **Cloud/DevOps** |
+|--------------|-------------|------------|------------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) | ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge) |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) |
 
 </div>
 
@@ -39,8 +44,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **SoccerField Pro** | AI-powered booking platform | React • Node.js • MongoDB |
-| **Sentiment Analyzer** | Real-time emotion detection | Python • TensorFlow |
+| **SoccerField Pro** | AI-powered booking platform | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Sentiment Analyzer** | Real-time emotion detection | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
 
 ---
 
@@ -60,8 +65,8 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" title="Rust"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 
 </div>
 
