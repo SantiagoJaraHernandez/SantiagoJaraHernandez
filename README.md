@@ -33,8 +33,8 @@
 
 | **Frontend** | **Backend** | **Mobile** | **Cloud/DevOps** |
 |--------------|-------------|------------|------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) | ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge) |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) |
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 
 </div>
 
@@ -65,8 +65,8 @@
 
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust-lang&logoColor=white)
 
 </div>
 
@@ -76,8 +76,8 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagojara1306@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-jara-hernandez)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santiagojara1306@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-jara-hernandez)
 
 </div>
 
