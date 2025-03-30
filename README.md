@@ -31,6 +31,7 @@
 💡 **I create** applications that solve real problems with cutting-edge technology  
 
 🔭 **Currently working on:**  
+
 - AI-powered booking platform  
 - Developer productivity tools  
 - Computer vision projects  
